@@ -1,7 +1,2 @@
 # pycourse-test
-Test repository for programming course VU
-
-check check double check
-
-new change in the 
-fhskfw
+Anna is the best
